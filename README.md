@@ -23,7 +23,7 @@
 Создайте виртуальную машину в Yandex Cloud Compute Cloud и с помощью Yandex Monitoring создайте дашборд, на котором будет видно загрузку процессора.
 
 *Приложите скриншот.*
-![1-1](./9-1-1.png)
+![1-1](https://github.com/George210890/hw-01-new.md/blob/main/1.png)
 
 ---
 
@@ -38,4 +38,4 @@
 
 *Приложите скриншот с уведомлением.*
 
-![2-1](./9-1-2.png)
+![2-1](https://github.com/George210890/hw-01-new.md/blob/main/2.png)
